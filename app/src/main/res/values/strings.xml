@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="myName">Richard Quimbiulco</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Richard
+    \n\nMi deseo es conocer más personas, hacer nuevos amigos extranjeros y
+        poder comunicarme sin ningún problema con ellos en inglés, conocer más
+        sobre su cultura, su forma de vida y de ver el mundo.
+    \n\nCon el inglés voy a viajar sin ningún problema al país que quiera y poder
+        comunicarme con todas las personas sin problema ya que es la lengua más usada.
+    \n\nHablando específicamente de un país puede ser EEUU ya que existen algunos lugares
+        como disney o los estudios universal q los voy a conocer y no quiero tener problemas
+        al comunicarme.
+    \n\nEl inglés me brindaría mejores oportunidades laborales
+	    ya que mi campo es la tecnología podría ganas más dinero.</string>
+    <string name="nickname_hint">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
